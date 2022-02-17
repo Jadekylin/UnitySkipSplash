@@ -1,16 +1,14 @@
-[(English)](README_EN.md)
-
 # UnitySkipSplash
 
-## 简介
-- 一个脚本跳过 Unity Logo 闪屏界面。
+## Intro
+- A script for Skipping Unity Logo Splash Screen.
 
-## 使用方法
-- 需要 Unity2019.4 或更高版本。
-- 将 [`SkipSplash.cs`](https://github.com/psygames/UnitySkipSplash/blob/main/SkipSplash.cs) 放到你的项目任意目录下（ `Editor` 除外）。
-- 完成，打包APP尽情享用吧~
+## Usage
+- Require Unity2019.4 or higher.
+- Put [`SkipSplash.cs`](https://github.com/psygames/UnitySkipSplash/blob/main/SkipSplash.cs) into any folder of your Unity project (but `Editor`).
+- All done, build app and enjoy it.
 
-## 全部代码
+## All Codes
 ```csharp
 /* ---------------------------------------------------------------- */
 /*                    Skip Unity Splash Screen                      */
