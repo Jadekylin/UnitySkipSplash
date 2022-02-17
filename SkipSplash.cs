@@ -1,13 +1,3 @@
-# UnitySkipSplash
-Skip Unity Splash Screen.
-
-## Usage
-- Require Unity2019.4 or higher.
-- Put `SkipSplash.cs` to your Unity project's any folder but `Editor`.
-- All done, build app and enjoy it.
-
-## Code
-```csharp
 /* ---------------------------------------------------------------- */
 /*                    Skip Unity Splash Screen                      */
 /*                      Create by psygames                          */
@@ -46,4 +36,3 @@ public class SkipSplash
 
 }
 #endif
-```
