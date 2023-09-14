@@ -1,0 +1,13 @@
+{
+  "name": "com.jadekylin.unityskipsplash",
+  "displayName": "Unity Skip Splash",
+  "version": "1.0.1",
+  "unity": "2019.4",
+  "description": "A script for Skipping Unity Logo Splash Screen.",
+  "keywords": [
+    "Splash"
+  ],
+  "repository": {
+    "url": "https://github.com/Jadekylin/UnitySkipSplash.git"
+  }
+}
